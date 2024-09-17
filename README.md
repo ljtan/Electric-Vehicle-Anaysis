@@ -1,1 +1,1 @@
-NOTE: data unavaialble 
+Conducted comprehensive data analysis on Tesla vehicle performance, evaluating efficiency in relation to temperature, average speed, and driving smoothness. Utilized Python for data preprocessing, analysis, and visualization, and tracked battery degradation over time to identify patterns and trends.
